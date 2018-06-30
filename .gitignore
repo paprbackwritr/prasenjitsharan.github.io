@@ -1,0 +1,8 @@
+doc
+.editorconfig
+.gitattributes
+.DS_Store
+browserconfig.xml
+humans.txt
+robots.txt
+site.webmanifest
